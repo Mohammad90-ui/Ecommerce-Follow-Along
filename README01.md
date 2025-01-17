@@ -19,6 +19,5 @@ create any commerce platform which has the following steps/functionality.
 13. Admin product management
 14. Admin order management
 15. Admin report
-================================================================================
-### Project Structure
-updated.
+==================================================================
+### updated.
